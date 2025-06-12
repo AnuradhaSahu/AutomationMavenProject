@@ -168,6 +168,7 @@ public class Assignment_22 {
 					
 	}
 	
+	//method to select hobbies
 	public static void selectHobbies(String[] hobbies) {
 		
 		for(String hobby : hobbies) {
@@ -176,6 +177,7 @@ public class Assignment_22 {
 				hobbyCheckBox.click();
 			}
 		}
+		
 		
 	}
 }
